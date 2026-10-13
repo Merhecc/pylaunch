@@ -1,0 +1,48 @@
+[2026-09-29 14:01:25] ============================================================
+[2026-09-29 14:01:25] AppManager 初始化
+[2026-09-29 14:01:25]   frozen      = True
+[2026-09-29 14:01:25]   sys.executable = D:\workplace\python project\pylaunch\pylaunch.exe
+[2026-09-29 14:01:25]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI402362\manager.pyc
+[2026-09-29 14:01:25]   BASE_DIR    = D:\workplace\python project\pylaunch
+[2026-09-29 14:01:25]   CONFIG_FILE = D:\workplace\python project\pylaunch\apps.json
+[2026-09-29 14:01:25]   配置存在    = False
+[2026-09-29 14:01:25] load: 配置文件不存在
+[2026-09-29 14:01:25]   加载应用数  = 0
+[2026-10-12 09:04:06] ============================================================
+[2026-10-12 09:04:06] AppManager 初始化
+[2026-10-12 09:04:06]   frozen      = True
+[2026-10-12 09:04:06]   sys.executable = D:\workplace\python project\pylaunch\pylaunch.exe
+[2026-10-12 09:04:06]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI398842\manager.pyc
+[2026-10-12 09:04:06]   BASE_DIR    = D:\workplace\python project\pylaunch
+[2026-10-12 09:04:06]   CONFIG_FILE = D:\workplace\python project\pylaunch\apps.json
+[2026-10-12 09:04:06]   配置存在    = False
+[2026-10-12 09:04:06] load: 配置文件不存在
+[2026-10-12 09:04:06]   加载应用数  = 0
+[2026-10-12 16:52:55] ============================================================
+[2026-10-12 16:52:55] AppManager 初始化
+[2026-10-12 16:52:55]   frozen      = True
+[2026-10-12 16:52:55]   sys.executable = D:\workplace\python project\pylaunch\pylaunch.exe
+[2026-10-12 16:52:55]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI108362\manager.pyc
+[2026-10-12 16:52:55]   BASE_DIR    = D:\workplace\python project\pylaunch
+[2026-10-12 16:52:55]   CONFIG_FILE = D:\workplace\python project\pylaunch\apps.json
+[2026-10-12 16:52:55]   配置存在    = False
+[2026-10-12 16:52:55] load: 配置文件不存在
+[2026-10-12 16:52:55]   加载应用数  = 0
+[2026-10-12 16:53:21] ============================================================
+[2026-10-12 16:53:21] AppManager 初始化
+[2026-10-12 16:53:21]   frozen      = True
+[2026-10-12 16:53:21]   is_admin    = False
+[2026-10-12 16:53:21]   BASE_DIR    = D:\workplace\python project\pylaunch
+[2026-10-12 16:53:21]   CONFIG_FILE = D:\workplace\python project\pylaunch\apps.json
+[2026-10-12 16:53:21]   配置存在    = False
+[2026-10-12 16:53:21] load: 配置文件不存在
+[2026-10-12 16:53:21]   加载应用数  = 0
+[2026-10-12 16:53:31] ============================================================
+[2026-10-12 16:53:31] AppManager 初始化
+[2026-10-12 16:53:31]   frozen      = True
+[2026-10-12 16:53:31]   is_admin    = True
+[2026-10-12 16:53:31]   BASE_DIR    = D:\workplace\python project\pylaunch
+[2026-10-12 16:53:31]   CONFIG_FILE = D:\workplace\python project\pylaunch\apps.json
+[2026-10-12 16:53:31]   配置存在    = False
+[2026-10-12 16:53:31] load: 配置文件不存在
+[2026-10-12 16:53:31]   加载应用数  = 0

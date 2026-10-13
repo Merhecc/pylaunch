@@ -1,0 +1,26 @@
+[
+  {
+    "name": "app",
+    "script": "D:\\workplace\\python project\\刷新token\\supos-tools\\app.py",
+    "args": "",
+    "cwd": "D:\\workplace\\python project\\刷新token\\supos-tools",
+    "python": "",
+    "env": {},
+    "id": "7b7d48aa71ab",
+    "last_started": 1791795242.1324956,
+    "note": "",
+    "run_as_admin": false
+  },
+  {
+    "name": "server",
+    "script": "D:\\workplace\\python project\\NFC_Card\\server.py",
+    "args": "",
+    "cwd": "D:\\workplace\\python project\\NFC_Card",
+    "python": "",
+    "env": {},
+    "id": "6e6850300a4d",
+    "last_started": 1791795245.0431902,
+    "note": "",
+    "run_as_admin": false
+  }
+]

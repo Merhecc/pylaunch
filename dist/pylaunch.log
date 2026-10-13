@@ -1,0 +1,211 @@
+[2026-09-20 15:02:40] ============================================================
+[2026-09-20 15:02:40] AppManager 初始化
+[2026-09-20 15:02:40]   frozen      = True
+[2026-09-20 15:02:40]   sys.executable = D:\workplace\python project\pylaunch\dist\pylaunch.exe
+[2026-09-20 15:02:40]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI308562\manager.pyc
+[2026-09-20 15:02:40]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-20 15:02:40]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-20 15:02:40]   配置存在    = False
+[2026-09-20 15:02:40] load: 配置文件不存在
+[2026-09-20 15:02:40]   加载应用数  = 0
+[2026-09-20 15:06:31] ============================================================
+[2026-09-20 15:06:31] AppManager 初始化
+[2026-09-20 15:06:31]   frozen      = True
+[2026-09-20 15:06:31]   sys.executable = D:\workplace\python project\pylaunch\dist\pylaunch.exe
+[2026-09-20 15:06:31]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI71162\manager.pyc
+[2026-09-20 15:06:31]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-20 15:06:31]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-20 15:06:31]   配置存在    = False
+[2026-09-20 15:06:31] load: 配置文件不存在
+[2026-09-20 15:06:31]   加载应用数  = 0
+[2026-09-20 15:06:39] save: 成功  1 条  272 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-20 15:06:39] add: app id=da6923d7a308 保存=成功  总数=1
+[2026-09-20 15:06:45] ============================================================
+[2026-09-20 15:06:45] AppManager 初始化
+[2026-09-20 15:06:45]   frozen      = True
+[2026-09-20 15:06:45]   sys.executable = D:\workplace\python project\pylaunch\dist\pylaunch.exe
+[2026-09-20 15:06:45]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI16122\manager.pyc
+[2026-09-20 15:06:45]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-20 15:06:45]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-20 15:06:45]   配置存在    = True
+[2026-09-20 15:06:45] load: 读到 272 字节 / 1 条
+[2026-09-20 15:06:45]   加载应用数  = 1
+[2026-09-20 15:06:45]     · app  →  D:\workplace\python project\刷新token\supos-tools\app.py
+[2026-09-20 15:07:28] save: 成功  2 条  497 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-20 15:07:28] add: 备件服务 id=d170a9648ebe 保存=成功  总数=2
+[2026-09-20 15:07:40] save: 成功  2 条  498 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-20 15:07:40] update: da6923d7a308 保存=成功
+[2026-09-20 15:07:43] save: 成功  2 条  513 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-20 15:07:43] start: 备件服务  PID=16416
+[2026-09-21 16:52:57] ============================================================
+[2026-09-21 16:52:57] AppManager 初始化
+[2026-09-21 16:52:57]   frozen      = True
+[2026-09-21 16:52:57]   sys.executable = D:\workplace\python project\pylaunch\dist\pylaunch.exe
+[2026-09-21 16:52:57]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI200922\manager.pyc
+[2026-09-21 16:52:57]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-21 16:52:57]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-21 16:52:57]   配置存在    = True
+[2026-09-21 16:52:57] load: 读到 513 字节 / 2 条
+[2026-09-21 16:52:57]   加载应用数  = 2
+[2026-09-21 16:52:57]     · 能耗分析  →  D:\workplace\python project\刷新token\supos-tools\app.py
+[2026-09-21 16:52:57]     · 备件服务  →  D:\workplace\python project\查询备件数据\server.py
+[2026-09-21 16:53:03] stop: 能耗分析  PID=5624
+[2026-09-21 16:53:13] save: 成功  2 条  543 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-21 16:53:13] start: 能耗分析  PID=16884
+[2026-09-22 10:01:19] stop: 备件服务  PID=16416
+[2026-09-22 10:01:32] save: 成功  2 条  545 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-22 10:01:32] update: d170a9648ebe 保存=成功
+[2026-09-22 10:01:33] save: 成功  2 条  545 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-22 10:01:33] start: 备件服务  PID=32704
+[2026-09-24 08:44:49] stop: 备件服务  PID=32704
+[2026-09-24 08:45:27] save: 成功  2 条  545 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-24 08:45:27] start: 备件服务  PID=10948
+[2026-09-24 09:41:44] stop: 备件服务  PID=10948
+[2026-09-24 09:41:47] save: 成功  2 条  545 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-24 09:41:48] start: 备件服务  PID=27972
+[2026-09-24 09:57:52] stop: 备件服务  PID=27972
+[2026-09-24 09:57:55] save: 成功  2 条  545 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-24 09:57:55] start: 备件服务  PID=43632
+[2026-09-24 10:02:38] stop: 备件服务  PID=43632
+[2026-09-24 10:02:40] save: 成功  2 条  545 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-24 10:02:40] start: 备件服务  PID=39220
+[2026-09-29 14:01:38] ============================================================
+[2026-09-29 14:01:38] AppManager 初始化
+[2026-09-29 14:01:38]   frozen      = True
+[2026-09-29 14:01:38]   sys.executable = D:\workplace\python project\pylaunch\dist\pylaunch.exe
+[2026-09-29 14:01:38]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI484002\manager.pyc
+[2026-09-29 14:01:38]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-29 14:01:38]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 14:01:38]   配置存在    = True
+[2026-09-29 14:01:38] load: 读到 545 字节 / 2 条
+[2026-09-29 14:01:38]   加载应用数  = 2
+[2026-09-29 14:01:38]     · 能耗分析  →  D:\workplace\python project\刷新token\supos-tools\app.py
+[2026-09-29 14:01:38]     · 备件服务  →  D:\workplace\python project\NFC_Card\server.py
+[2026-09-29 14:01:55] ============================================================
+[2026-09-29 14:01:55] AppManager 初始化
+[2026-09-29 14:01:55]   frozen      = True
+[2026-09-29 14:01:55]   sys.executable = D:\workplace\python project\pylaunch\dist\pylaunch.exe
+[2026-09-29 14:01:55]   __file__       = C:\Users\ADmin\AppData\Local\Temp\_MEI465082\manager.pyc
+[2026-09-29 14:01:55]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-29 14:01:55]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 14:01:55]   配置存在    = False
+[2026-09-29 14:01:55] load: 配置文件不存在
+[2026-09-29 14:01:55]   加载应用数  = 0
+[2026-09-29 14:02:03] save: 成功  1 条  272 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 14:02:03] add: app id=7b7d48aa71ab 保存=成功  总数=1
+[2026-09-29 14:02:03] save: 成功  2 条  524 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 14:02:03] add: server id=6e6850300a4d 保存=成功  总数=2
+[2026-09-29 14:38:30] save: 成功  3 条  747 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 14:38:30] add: main id=296c60edc66e 保存=成功  总数=3
+[2026-09-29 14:38:34] save: 成功  3 条  762 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 14:38:34] start: main  PID=49636
+[2026-09-29 14:55:03] save: 成功  3 条  762 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 14:55:03] start: main  PID=50636
+[2026-09-29 15:19:43] save: 成功  3 条  762 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:19:43] start: main  PID=7448
+[2026-09-29 15:27:15] save: 成功  3 条  762 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:27:15] start: main  PID=51784
+[2026-09-29 15:30:29] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:30:29] update: 296c60edc66e 保存=成功
+[2026-09-29 15:30:31] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:30:32] start: main  PID=49728
+[2026-09-29 15:31:35] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:31:35] start: main  PID=51544
+[2026-09-29 15:33:15] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:33:15] start: main  PID=29320
+[2026-09-29 15:34:27] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:34:27] start: main  PID=49996
+[2026-09-29 15:35:09] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:35:09] start: main  PID=51584
+[2026-09-29 15:36:04] save: 成功  3 条  778 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:36:05] start: main  PID=50280
+[2026-09-29 15:38:04] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:38:04] start: main  PID=48996
+[2026-09-29 15:41:18] save: 成功  3 条  779 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:41:18] start: main  PID=36080
+[2026-09-29 15:43:14] save: 成功  3 条  762 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:43:14] update: 296c60edc66e 保存=成功
+[2026-09-29 15:43:16] save: 成功  3 条  762 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:43:16] start: main  PID=9740
+[2026-09-29 15:45:19] save: 成功  3 条  761 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:45:20] start: main  PID=42164
+[2026-09-29 15:47:41] save: 成功  3 条  762 字节  → D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:47:42] start: main  PID=36264
+[2026-09-29 15:54:24] ============================================================
+[2026-09-29 15:54:24] AppManager 初始化
+[2026-09-29 15:54:24]   frozen      = True
+[2026-09-29 15:54:24]   is_admin    = False
+[2026-09-29 15:54:24]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-29 15:54:24]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:54:24]   配置存在    = True
+[2026-09-29 15:54:24] load: 读到 762 字节 / 3 条
+[2026-09-29 15:54:24]   加载应用数  = 3
+[2026-09-29 15:54:24]     · app  →  D:\workplace\python project\刷新token\supos-tools\app.py  管理员=False
+[2026-09-29 15:54:24]     · server  →  D:\workplace\python project\NFC_Card\server.py  管理员=False
+[2026-09-29 15:54:24]     · main  →  D:\workplace\python project\视频下载\video-downloader\main.py  管理员=False
+[2026-09-29 15:54:48] ============================================================
+[2026-09-29 15:54:48] AppManager 初始化
+[2026-09-29 15:54:48]   frozen      = True
+[2026-09-29 15:54:48]   is_admin    = True
+[2026-09-29 15:54:48]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-09-29 15:54:48]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-09-29 15:54:48]   配置存在    = True
+[2026-09-29 15:54:48] load: 读到 762 字节 / 3 条
+[2026-09-29 15:54:48]   加载应用数  = 3
+[2026-09-29 15:54:48]     · app  →  D:\workplace\python project\刷新token\supos-tools\app.py  管理员=False
+[2026-09-29 15:54:48]     · server  →  D:\workplace\python project\NFC_Card\server.py  管理员=False
+[2026-09-29 15:54:48]     · main  →  D:\workplace\python project\视频下载\video-downloader\main.py  管理员=False
+[2026-09-29 15:54:57] save: 成功  3 条  891 字节
+[2026-09-29 15:54:58] start: main  PID=51244
+[2026-09-29 15:59:23] stop: main  PID=51244
+[2026-09-29 15:59:28] save: 成功  3 条  889 字节
+[2026-09-29 15:59:29] start: main  PID=49492
+[2026-09-29 16:04:38] save: 成功  3 条  891 字节
+[2026-09-29 16:04:39] start: main  PID=50020
+[2026-09-29 16:08:23] save: 成功  3 条  890 字节
+[2026-09-29 16:08:24] start: main  PID=50828
+[2026-09-29 16:18:16] save: 成功  3 条  891 字节
+[2026-09-29 16:18:17] start: main  PID=31956
+[2026-09-29 16:32:51] save: 成功  3 条  891 字节
+[2026-09-29 16:32:52] start: main  PID=41520
+[2026-09-29 16:34:57] save: 成功  3 条  890 字节
+[2026-09-29 16:34:58] start: main  PID=51816
+[2026-09-29 16:35:12] save: 成功  2 条  610 字节
+[2026-09-29 16:35:12] remove: 296c60edc66e  3→2  保存=成功
+[2026-10-08 15:10:55] ============================================================
+[2026-10-08 15:10:55] AppManager 初始化
+[2026-10-08 15:10:55]   frozen      = True
+[2026-10-08 15:10:55]   is_admin    = False
+[2026-10-08 15:10:55]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-10-08 15:10:55]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-10-08 15:10:55]   配置存在    = True
+[2026-10-08 15:10:55] load: 读到 610 字节 / 2 条
+[2026-10-08 15:10:55]   加载应用数  = 2
+[2026-10-08 15:10:55]     · app  →  D:\workplace\python project\刷新token\supos-tools\app.py  管理员=False
+[2026-10-08 15:10:55]     · server  →  D:\workplace\python project\NFC_Card\server.py  管理员=False
+[2026-10-08 15:11:09] ============================================================
+[2026-10-08 15:11:09] AppManager 初始化
+[2026-10-08 15:11:09]   frozen      = True
+[2026-10-08 15:11:09]   is_admin    = True
+[2026-10-08 15:11:09]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-10-08 15:11:09]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-10-08 15:11:09]   配置存在    = True
+[2026-10-08 15:11:09] load: 读到 610 字节 / 2 条
+[2026-10-08 15:11:09]   加载应用数  = 2
+[2026-10-08 15:11:09]     · app  →  D:\workplace\python project\刷新token\supos-tools\app.py  管理员=False
+[2026-10-08 15:11:09]     · server  →  D:\workplace\python project\NFC_Card\server.py  管理员=False
+[2026-10-12 16:53:52] ============================================================
+[2026-10-12 16:53:52] AppManager 初始化
+[2026-10-12 16:53:52]   frozen      = True
+[2026-10-12 16:53:52]   is_admin    = False
+[2026-10-12 16:53:52]   BASE_DIR    = D:\workplace\python project\pylaunch\dist
+[2026-10-12 16:53:52]   CONFIG_FILE = D:\workplace\python project\pylaunch\dist\apps.json
+[2026-10-12 16:53:52]   配置存在    = True
+[2026-10-12 16:53:52] load: 读到 610 字节 / 2 条
+[2026-10-12 16:53:52]   加载应用数  = 2
+[2026-10-12 16:53:52]     · app  →  D:\workplace\python project\刷新token\supos-tools\app.py  管理员=False
+[2026-10-12 16:53:52]     · server  →  D:\workplace\python project\NFC_Card\server.py  管理员=False
+[2026-10-12 16:54:02] save: 成功  2 条  625 字节
+[2026-10-12 16:54:02] start: app  PID=10812
+[2026-10-12 16:54:05] save: 成功  2 条  640 字节
+[2026-10-12 16:54:05] start: server  PID=4144
